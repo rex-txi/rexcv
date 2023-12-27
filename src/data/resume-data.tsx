@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "A multi-disciplinary designer and creative",
   summary:
-    "info tk.",
+    "As a principal Product Designer with 18 years of design execution and leadership, I've guided projects from concept to launch in startups, enterprises and media to now focusing on agile, user-centric solutions in IoT, digital therapeutics and generative AI.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
